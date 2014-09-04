@@ -6,3 +6,5 @@ PS: There's only one thing you need to change in google-play-services_lib/libs/g
 
 change doc=/Users/yuqingchen/Documents/android-sdk-macosx/extras/google/google_play_services/docs/reference
 to the directory of the google-play-services javadocs in your android sdk directory 
+
+NOTE: google-play-services_lib project excludes if.class, do.class, and do$a.class
